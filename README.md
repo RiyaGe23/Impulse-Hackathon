@@ -33,7 +33,7 @@ OpenCV with C++/Python : It is a library which is designed for computational eff
 
 Arduino IDE : The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. . This software can be used with any Arduino board.
  
- FUTURE SCOPE
+ FUTURE SCOPE:
  This project can be advanced to calculate the amount of pesticide needed to be used.
  We can access images and locations to reasearch which part of the farm is worst hit etc
 
