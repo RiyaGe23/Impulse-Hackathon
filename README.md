@@ -15,15 +15,22 @@ Therefore, we present the idea to bring a system using drones and image processi
 
 HARDWARE REQUIREMENT:
 The following are the hardware requirements for the project:
+
  IP Camera module : To capture and transfer the image
+ 
 Arduino : A microcontroller which will do the following functions: hover, obstacle sensing and path determination
+
 SD Card :  to save the captured images and further can be inserted in a mobile or a laptop.
+
 Brushless Motors,Propeller Set : Flying the drone
+
 Multi Copter Frame : A frame for the drone
+
 A laptop/Android mobile : For report analysisThe following softwares are required for the project:
  
-SOFTWARE REQUIREMENT
+SOFTWARE REQUIREMENT:
 OpenCV with C++/Python : It is a library which is designed for computational efficiency with a strong focus on real time applications.
+
 Arduino IDE : The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. . This software can be used with any Arduino board.
  
  FUTURE SCOPE
